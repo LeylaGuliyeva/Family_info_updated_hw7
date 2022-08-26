@@ -5,6 +5,7 @@ public enum Species {
     DomesticCat,
     Dog,
     Horse,
+    RoboCat,
     UNKNOWN,
 }
 
