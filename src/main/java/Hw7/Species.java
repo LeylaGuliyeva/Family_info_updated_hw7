@@ -1,4 +1,10 @@
 package Hw7;
 
-public class Species {
+public enum Species {
+    Fish,
+    DomesticCat,
+    Dog,
+    Horse,
+    UNKNOWN,
 }
+
