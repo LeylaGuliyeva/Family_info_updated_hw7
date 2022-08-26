@@ -1,4 +1,11 @@
 package Hw7;
 
-public class DayOfWeek {
+public enum DayOfWeek{
+    MONDAY,
+    TUESDAY,
+    WEDNESDAY,
+    THURSDAY,
+    FRIDAY,
+    SATURDAY,
+    SUNDAY,
 }
