@@ -58,7 +58,7 @@ public abstract class Pet {
         System.out.println("Hello, friend");
     }
     public void foul(){
-        System.out.println("I need to cover it up.");
+        System.out.println("It is time to suppress.");
     }
 
     @Override
