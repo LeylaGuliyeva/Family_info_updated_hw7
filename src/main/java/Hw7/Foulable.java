@@ -1,4 +1,6 @@
 package Hw7;
 
-public class Foulable {
+public interface Foulable {
+
+        void foul();
 }
